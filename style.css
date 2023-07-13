@@ -14,8 +14,8 @@ header {
 }
 
 nav {
-  text-align: right; /* Add this line */
-  padding-top: 10px; /* Adjust the padding as needed */
+  text-align: right;
+  padding-top: 10px;
 }
 
 nav a {
