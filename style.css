@@ -24,6 +24,15 @@ nav a {
   font-family: "Raleway", sans-serif;
   font-size: 120%;
   color: black;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #76b3e9;
+  color: white;
+  transition-delay: 0.5s;
+  padding: 10px;
 }
 
 .landing-title {
