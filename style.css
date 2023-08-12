@@ -10,12 +10,13 @@ header {
   margin: 0%;
   height: 100px;
   width: 100px;
-  position: fixed;
+  position: relative;
 }
 
 nav {
   text-align: right;
   padding-top: 10px;
+  margin-top: -90px;
 }
 
 nav a {
